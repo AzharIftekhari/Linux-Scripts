@@ -1,0 +1,9 @@
+
+#!/bin/bash
+
+#This is for loops
+
+for (( num=1 ; num<=3 ; num++ ));
+do
+        mkdir "demo$num"
+done
