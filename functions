@@ -1,0 +1,11 @@
+
+function display ()
+{
+echo "Welcome to the world of online courses"
+}
+function show ()
+{
+echo "Welcome the the DevOps course"
+}
+display
+show
