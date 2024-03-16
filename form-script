@@ -17,3 +17,9 @@ echo "Please select your course?"
 read course
 
 echo "I would like to pursue ${course}"
+
+echo "Please enter the academic year you wish to pursue your ${course}"
+
+read year
+
+echo "Academic year ${year}"
