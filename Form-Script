@@ -1,0 +1,19 @@
+#!/bin/bash
+
+name=User
+
+echo "Hello ${name}, please enter your name?"
+
+read name
+
+echo "Hello ${name}, please enter your country?"
+
+read country
+
+echo "I am from ${country}"
+
+echo "Please select your course?"
+
+read course
+
+echo "I would like to pursue ${course}"
